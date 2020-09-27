@@ -1,0 +1,23 @@
+;Not Missing;Missing
+CustomerID;100.0;0%
+Customer.Lifetime.Value;100.0;0%
+Coverage;90.57;9%
+Education;98.68;1%
+EmploymentStatus;98.8;1%
+Gender;98.68;1%
+Income;100.0;0%
+Location.Geo;100.0;0%
+Location.Code;98.79;1%
+Marital.Status;98.68;1%
+Monthly.Premium.Auto;91.9;8%
+Months.Since.Last.Claim;100.0;0%
+Months.Since.Policy.Inception;100.0;0%
+Number.of.Open.Complaints;91.66;8%
+Number.of.Policies;98.77;1%
+Policy.Type;90.91;9%
+Policy;98.77;1%
+Renew.Offer.Type;98.69;1%
+Sales.Channel;98.69;1%
+Total.Claim.Amount;100.0;0%
+Vehicle.Class;98.72;1%
+Vehicle.Size;98.72;1%
